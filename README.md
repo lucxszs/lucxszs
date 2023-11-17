@@ -19,7 +19,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Business Intelligence Analyst** \
 [**Nomos**](https://somosnomos.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Azure Data Factory`, `Excel`,\
+Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Azure Data Factory`, `Excel`\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
@@ -27,7 +27,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 
 **Frot-end Developer** \
 [**SuryaMKT**](https://suryamkt.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`,`HTML`,`CSS`, `Wordpress`, `Oxygen`,`Photoshop`,\
+Linguagens & Tecnologias: `JavaScript`,`HTML`,`CSS`, `Wordpress`, `Oxygen`,`Photoshop`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 <br/>

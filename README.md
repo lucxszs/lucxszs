@@ -18,7 +18,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Nomos" src="/nomos.jpg"/>](https://somosnomos.com.br/)
 
 **Business Intelligence Analyst** \
-[**Nomos**](https://somosnomos.com.br/) • Full-time \
+[**Nomos**](https://somosnomos.com.br/) • Contract \
 Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Azure Data Factory`, `Excel`\
 <br/>
 

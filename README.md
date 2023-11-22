@@ -15,20 +15,18 @@ Tenho afinidade por desafios que envolvem a otimização de processos e a resolu
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Nomos" src="/nomos.jpg"/>](https://somosnomos.com.br/)
 
 **Business Intelligence Analyst** \
 [**Nomos**](https://somosnomos.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `SQL`, `Power BI`, `Azure Data Factory`, `Excel`\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="SuryaMkt" src="/suryamkt.jpg"/>](https://suryamkt.com.br/)
 
 **Frot-end Developer** \
 [**SuryaMKT**](https://suryamkt.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`,`HTML`,`CSS`, `Wordpress`, `Oxygen`,`Photoshop`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 <br/>
 

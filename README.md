@@ -8,8 +8,9 @@ Eu sou o Lucas, um Analista de Inteligência de Negócios, possuo habilidades s�
 
 Tenho afinidade por desafios que envolvem a otimização de processos e a resolução de problemas complexos.
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dantas-abreu/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucasdantasdabreu@outlook.com.br)
+
 <br/>
 ### Experiência de trabalho
 

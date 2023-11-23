@@ -8,12 +8,15 @@ I'm Lucas, a Business Intelligence Analyst with strong skills in Python, SQL, Po
 
 I'm passionate about challenges involving process optimization and solving complex problems.
 
-Encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+**Entre em contato comigo:**
+<br/>
+<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dantas-abreu/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasdantasdabreu@outlook.com.br)
 
 <br/>
-## Work experience
+
+**Work experience:** 
 
 In the overview below, you will find my most recent work experience:
 

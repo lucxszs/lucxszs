@@ -22,7 +22,7 @@ In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Nomos" src="/nomos.jpg"/>](https://somosnomos.com.br/)
 
-**Business Intelligence Analyst** \
+**Business Intelligence Analyst Jr.** \
 [**Nomos**](https://somosnomos.com.br/) • Contract \
 Languages & Technologies: `Python`, `SQL`, `Power BI`, `Azure Data Factory`, `Excel`\
 <br/>

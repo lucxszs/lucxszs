@@ -29,7 +29,7 @@ Languages & Technologies: `Python`, `SQL`, `Power BI`, `Azure Data Factory`, `Ex
 
 [<img align="left" height="94px" width="94px" alt="SuryaMkt" src="/suryamkt.jpg"/>](https://suryamkt.com.br/)
 
-**Frot-end Developer** \
+**Front-end Developer** \
 [**SuryaMKT**](https://suryamkt.com.br/) • Contract \
 Languages & Technologies: `JavaScript`,`HTML`,`CSS`, `Wordpress`, `Oxygen`,`Photoshop`\
 <br/>

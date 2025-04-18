@@ -1,6 +1,6 @@
 # Lucas Abreu
 
-### Engenheiro de Dados Jr. | Python, SQL, DBT, Airflow, AWS | Apaixonado por automação e dados limpos
+### Engenheiro de Dados Jr. | Python, SQL, DBT, Airflow, AWS
 
 Sou Engenheiro de Dados Jr. com experiência prática no desenvolvimento de pipelines escaláveis, automações com Python e soluções robustas de ETL. Atualmente atuo na **Nomos**, uma empresa do mercado de capitais, onde contribuo diretamente para a construção de soluções orientadas a dados, desde a ingestão até a disponibilização em camadas bronze, silver e gold.
 
@@ -27,7 +27,6 @@ Sou movido por desafios que envolvem automação, organização e melhoria cont�
 📍 **Nomos** — *Out/2022 até Dez/2023*  
 - Dashboards estratégicos com **Power BI**  
 - ETL com **Python**, **Azure Data Factory** e **SQL Server**  
-- Extração de dados com **Selenium**  
 - Apoio ao time de negócios com análises de dados  
 
 ### 🟨 Estagiário em Desenvolvimento Front-end  

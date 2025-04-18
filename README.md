@@ -1,21 +1,5 @@
 # Lucas Abreu
 
-Business Intelligence Analyst
-
-👋 Hi,
-
-I'm Lucas, a Business Intelligence Analyst with strong skills in Python, SQL, Power BI, and Excel. I have a keen interest in data analysis, aiming not only for numbers but also valuable insights to support strategic decision-making.
-
-I'm passionate about challenges involving process optimization and solving complex problems.
-
-**Contact me:**
-<br/>
-<br/>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dantas-abreu/)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasdantasdabreu@outlook.com.br)
-
-<br/>
-
 ### Engenheiro de Dados Jr. | Python, SQL, DBT, Airflow, AWS | Apaixonado por automação e dados limpos
 
 Sou Engenheiro de Dados Jr. com experiência prática no desenvolvimento de pipelines escaláveis, automações com Python e soluções robustas de ETL. Atualmente atuo na **Nomos**, uma empresa do mercado de capitais, onde contribuo diretamente para a construção de soluções orientadas a dados, desde a ingestão até a disponibilização em camadas bronze, silver e gold.
@@ -65,3 +49,10 @@ Sou movido por desafios que envolvem automação, organização e melhoria cont�
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Contact me:**
+<br/>
+<br/>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dantas-abreu/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasdantasdabreu@outlook.com.br)
+
+<br/>

@@ -12,31 +12,6 @@ Sou movido por desafios que envolvem automação, organização e melhoria cont�
 
 ---
 
-## 🚀 Experiência Profissional
-
-### 🟩 Engenheiro de Dados Jr.  
-📍 **Nomos** — *Dez/2023 até o momento*  
-- Desenvolvimento de pipelines escaláveis (camadas bronze, silver e gold)  
-- Orquestração com **Apache Airflow**  
-- Transformação de dados com **SQL** e **DBT**  
-- Processamento e armazenamento com **AWS**: S3, Athena, Redshift  
-- Extração de dados externos com **Selenium** e **web scraping**  
-- Foco em governança e apoio à tomada de decisão
-
-### 🟦 Estagiário em Business Intelligence  
-📍 **Nomos** — *Out/2022 até Dez/2023*  
-- Dashboards estratégicos com **Power BI**  
-- ETL com **Python**, **Azure Data Factory** e **SQL Server**  
-- Apoio ao time de negócios com análises de dados  
-
-### 🟨 Estagiário em Desenvolvimento Front-end  
-📍 **SuryaMKT** — *Jul/2021 até Dez/2021*  
-- Desenvolvimento de sites com **HTML**, **CSS**, **WordPress**  
-- Migração de servidores e gestão de usuários no **Azure AD**  
-- Suporte técnico e manutenção de plataforma
-
----
-
 ## 🧠 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

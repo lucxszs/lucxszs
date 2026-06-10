@@ -3,11 +3,6 @@
 <h3 align="center">Engenheiro de Dados · AWS · Airflow · Python</h3>
 
 <p align="center">
-  Construo pipelines de dados escaláveis, do <em>ingest</em> via APIs e Web Scraping<br/>
-  até a modelagem analítica em arquitetura Medalhão (Bronze · Silver · Gold).
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/lucas-dantas-abreu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

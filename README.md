@@ -32,21 +32,18 @@ Especialista no ciclo completo de engenharia de dados: do *ingest* via APIs e We
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,azure,docker,git,github,bash,vscode&perline=10" alt="Skills"/>
-</p>
+    <img src="https://api.iconify.design/logos/airflow-icon.svg" height="55" alt="Apache Airflow"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/dbt-icon.svg" height="55" alt="dbt"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/apache-spark.svg" height="55" alt="Apache Spark"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons/databricks.svg?color=%23FF3621" height="50" 
+  alt="Databricks"/>
+  </p>
 
-<p align="center">
-  <img src="https://api.iconify.design/logos/airflow-icon.svg" height="45" alt="Apache Airflow"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos/dbt-icon.svg" height="45" alt="dbt"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos/apache-spark.svg" height="45" alt="PySpark"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/databricks.svg?color=%23FF3621" height="42" alt="Databricks"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos/pandas-icon.svg" height="45" alt="Pandas"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="45" alt="Power BI"/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,git&perline=10" alt="Skills"/>
 </p>
 
 ## 📈 Linguagens

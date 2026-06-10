@@ -32,19 +32,29 @@ Especialista no ciclo completo de engenharia de dados: do *ingest* via APIs e We
 ## 🛠️ Stack
 
 <p align="center">
-    <img src="https://api.iconify.design/logos/airflow-icon.svg" height="55" alt="Apache Airflow"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://api.iconify.design/logos/dbt-icon.svg" height="55" alt="dbt"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://api.iconify.design/logos/apache-spark.svg" height="55" alt="Apache Spark"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://api.iconify.design/simple-icons/databricks.svg?color=%23FF3621" height="50" 
+    <img src="https://api.iconify.design/logos/airflow-icon.svg" height="60" alt="Apache Airflow"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/dbt-icon.svg" height="60" alt="dbt"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/apache-spark.svg" height="60" alt="Apache Spark"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons/databricks.svg?color=%23FF3621" height="60" 
   alt="Databricks"/>
   </p>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,git&perline=10" alt="Skills"/>
-</p>
+    <img src="https://api.iconify.design/logos/python.svg" height="60" alt="Python"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/postgresql.svg" height="60" alt="PostgreSQL"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/mysql.svg" height="60" alt="MySQL"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/aws.svg" height="60" alt="AWS"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/docker-icon.svg" height="60" alt="Docker"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/logos/git-icon.svg" height="60" alt="Git"/>
+  </p>
 
 ## 📈 Linguagens
 

@@ -1,78 +1,62 @@
-<h1 align="center">Olá, eu sou o Lucas Abreu 👋</h1>
+<div align="center">
 
-<h3 align="center">Engenheiro de Dados · AWS · Airflow · Python</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,12,6&height=190&section=header&text=Lucas%20Abreu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenheiro%20de%20Dados%20%C2%B7%20AWS%20%C2%B7%20Airflow%20%C2%B7%20Python&descSize=18&descAlignY=58" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-dantas-abreu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:lucasdantasdabreu@outlook.com.br">
-    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/>
-  </a>
-</p>
+**Transformo dados brutos em pipelines confiáveis e prontos para decisão.**
 
----
+Especialista no ciclo completo de engenharia de dados: do *ingest* via APIs e Web Scraping
+à modelagem analítica em arquitetura Medalhão (Bronze · Silver · Gold) na AWS.
 
-### 🧠 Sobre mim
+<a href="https://www.linkedin.com/in/lucas-dantas-abreu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:lucasdantasdabreu@outlook.com.br">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+</a>
 
-- 🔭 Engenheiro de Dados na **Nomos**, empresa do mercado de capitais, atuando no ciclo completo de engenharia de dados.
-- 🏗️ Trabalho com arquitetura **Medalhão** (Bronze · Silver · Gold) no ecossistema **AWS** (S3 · Glue · Athena · Redshift · Lambda).
-- 🌀 Orquestro pipelines com **Apache Airflow** e modelo dados com **DBT**.
-- 🕷️ Desenvolvo rotinas avançadas de **Web Scraping** (Selenium · Playwright · BeautifulSoup4).
-- 🤖 Integro **Agentes de IA** e automações para suporte à decisão estratégica.
-- 📜 Certificado **Astronomer · Apache Airflow 3 Fundamentals**.
+</div>
 
----
+<br/>
 
-### 🛠️ Stack
+## 🧠 O que eu faço
 
-**Linguagens & Frameworks**
+- 🏗️ Projeto e mantenho **pipelines de dados escaláveis**, do *ingest* à modelagem analítica.
+- ☁️ Construo **Data Lakes** em arquitetura Medalhão na **AWS** (S3 · Glue · Athena · Redshift · Lambda).
+- 🌀 Orquestro com **Apache Airflow** e transformo dados com **dbt**.
+- 🕷️ Extraio dados de fontes externas com **Web Scraping** (Selenium · Playwright · BeautifulSoup4).
+- 🤖 Integro **Agentes de IA** e automações para suporte à decisão de negócio.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-</p>
-
-**Data & Orquestração**
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white"/>
-</p>
-
-**Cloud & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub em números
+## 🛠️ Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucxszs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxszs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,azure,docker,git,github,bash,vscode&perline=10" alt="Skills"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucxszs&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
----
+## 🚀 Projetos em destaque
+
+> 📌 Fixe seus melhores repositórios em **github.com/lucxszs** para aparecerem aqui em cima.
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**treinamento-airflow**](https://github.com/lucxszs/treinamento-airflow) | Pipelines ETL orquestrados com Airflow (PTAX/Bacen e Vendas) destinados a Postgres. | `Airflow` `Python` `Postgres` |
+
+## 📈 Linguagens
 
 <p align="center">
-  <em>“Transformando dados brutos em decisões estratégicas.”</em>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxszs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
 </p>
+
+<div align="center">
+
+📫 **Aberto a novas oportunidades em Engenharia de Dados:** [vamos conversar no LinkedIn](https://www.linkedin.com/in/lucas-dantas-abreu/)
+
+</div>

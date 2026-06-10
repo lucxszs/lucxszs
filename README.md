@@ -7,11 +7,14 @@
 Especialista no ciclo completo de engenharia de dados: do *ingest* via APIs e Web Scraping
 à modelagem analítica em arquitetura Medalhão (Bronze · Silver · Gold) na AWS.
 
+<br/>
+
 <a href="https://www.linkedin.com/in/lucas-dantas-abreu/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://api.iconify.design/logos/linkedin-icon.svg" height="36" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:lucasdantasdabreu@outlook.com.br">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+  <img src="https://api.iconify.design/vscode-icons/file-type-outlook.svg" height="36" alt="Outlook"/>
 </a>
 
 </div>
@@ -33,21 +36,18 @@ Especialista no ciclo completo de engenharia de dados: do *ingest* via APIs e We
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://api.iconify.design/logos/airflow-icon.svg" height="45" alt="Apache Airflow"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos/dbt-icon.svg" height="45" alt="dbt"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos/apache-spark.svg" height="45" alt="PySpark"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/databricks.svg?color=%23FF3621" height="42" alt="Databricks"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos/pandas-icon.svg" height="45" alt="Pandas"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="45" alt="Power BI"/>
 </p>
-
-## 🚀 Projetos em destaque
-
-> 📌 Fixe seus melhores repositórios em **github.com/lucxszs** para aparecerem aqui em cima.
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**treinamento-airflow**](https://github.com/lucxszs/treinamento-airflow) | Pipelines ETL orquestrados com Airflow (PTAX/Bacen e Vendas) destinados a Postgres. | `Airflow` `Python` `Postgres` |
 
 ## 📈 Linguagens
 

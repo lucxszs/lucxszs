@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1216" height="416" viewBox="-2 -2 1216 416" role="img" aria-labelledby="t d">
+  <title id="t">Lucas Abreu, Data Engineer</title>
+  <desc id="d">Brutalist banner with the name, the role and an animated graph of a data pipeline.</desc>
+  <style>
+    .bar { font: 700 17px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #FFFFFF; letter-spacing: 1px; }
+    .name { font: 800 104px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1F2328; }
+    .role { font: 800 30px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .prompt { font: 700 22px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #656D76; }
+    .word { font: 700 22px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #1F2328; opacity: 0;
+             animation: cycle 12s linear infinite; }
+    .cap { font: 700 14px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #1F2328; letter-spacing: 2px; }
+    .edge { fill: none; stroke: #D0D7DE; stroke-width: 5; }
+    .flow { fill: none; stroke: #1F2328; stroke-width: 5; stroke-dasharray: 14 26; animation: flow 2.4s linear infinite; }
+    .out { animation: jolt 2.4s steps(1) infinite; }
+    @keyframes flow { to { stroke-dashoffset: -80; } }
+    @keyframes jolt { 50% { transform: translate(4px, 4px); } }
+    @keyframes cycle { 0% { opacity: 0; } 2% { opacity: 1; } 24% { opacity: 1; } 25% { opacity: 0; } 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .out { animation: none; }
+      .word { animation: none; } .word:first-of-type { opacity: 1; }
+    }
+  </style>
+  <rect x="12" y="12" width="1200" height="400" fill="#1F2328"/><rect x="0" y="0" width="1200" height="400" fill="#FFFFFF" stroke="#1F2328" stroke-width="6"/>
+  <rect x="0" y="0" width="1200" height="52" fill="#1F2328"/>
+  <text x="28" y="33" class="bar">LUCXSZS / README.MD</text>
+  <rect x="1058" y="16" width="20" height="20" fill="#9BE9A8"/>
+  <rect x="1088" y="16" width="20" height="20" fill="#40C463"/>
+  <rect x="1118" y="16" width="20" height="20" fill="#30A14E"/>
+  <rect x="1148" y="16" width="20" height="20" fill="#216E39"/>
+
+  <text x="36" y="180" class="name" textLength="640" lengthAdjust="spacingAndGlyphs">LUCAS ABREU</text>
+  <g transform="rotate(-2 200 248)">
+    <rect x="47" y="223" width="320" height="60" fill="#1F2328"/><rect x="40" y="216" width="320" height="60" fill="#2DA44E" stroke="#1F2328" stroke-width="4"/>
+    <text x="58" y="258" class="role" textLength="284" lengthAdjust="spacingAndGlyphs">DATA ENGINEER</text>
+  </g>
+  <text x="40" y="352" class="prompt">&gt; building</text>
+  <g>
+    <text x="40" y="352" class="word" style="animation-delay:0s"><tspan fill-opacity="0">&gt; building </tspan>pipelines</text>
+    <text x="40" y="352" class="word" style="animation-delay:3s"><tspan fill-opacity="0">&gt; building </tspan>data lakes</text>
+    <text x="40" y="352" class="word" style="animation-delay:6s"><tspan fill-opacity="0">&gt; building </tspan>data warehouses</text>
+    <text x="40" y="352" class="word" style="animation-delay:9s"><tspan fill-opacity="0">&gt; building </tspan>data platforms</text>
+  </g>
+
+  <rect x="724" y="52" width="6" height="348" fill="#1F2328"/>
+  <path d="M800,120 H875.0 V150 H950" class="edge"/><path d="M800,120 H875.0 V150 H950" class="flow" style="animation-delay:-0.0s"/><path d="M800,180 H875.0 V150 H950" class="edge"/><path d="M800,180 H875.0 V150 H950" class="flow" style="animation-delay:-0.4s"/><path d="M800,180 H875.0 V270 H950" class="edge"/><path d="M800,180 H875.0 V270 H950" class="flow" style="animation-delay:-0.8s"/><path d="M800,240 H875.0 V270 H950" class="edge"/><path d="M800,240 H875.0 V270 H950" class="flow" style="animation-delay:-1.2s"/><path d="M800,300 H875.0 V270 H950" class="edge"/><path d="M800,300 H875.0 V270 H950" class="flow" style="animation-delay:-1.6s"/><path d="M950,150 H1025.0 V210 H1100" class="edge"/><path d="M950,150 H1025.0 V210 H1100" class="flow" style="animation-delay:-2.0s"/><path d="M950,270 H1025.0 V210 H1100" class="edge"/><path d="M950,270 H1025.0 V210 H1100" class="flow" style="animation-delay:-2.4s"/>
+  <rect x="789" y="109" width="22" height="22" fill="#1F2328"/><rect x="789" y="169" width="22" height="22" fill="#1F2328"/><rect x="789" y="229" width="22" height="22" fill="#1F2328"/><rect x="789" y="289" width="22" height="22" fill="#1F2328"/><rect x="934" y="134" width="32" height="32" fill="#FFFFFF" stroke="#1F2328" stroke-width="5"/><rect x="934" y="254" width="32" height="32" fill="#FFFFFF" stroke="#1F2328" stroke-width="5"/><rect x="1078" y="188" width="52" height="52" fill="#1F2328"/><rect x="1070" y="180" width="52" height="52" fill="#2DA44E" stroke="#1F2328" stroke-width="5" class="out"/>
+  <text x="800" y="368" class="cap" text-anchor="middle">INGEST</text>
+  <text x="950" y="368" class="cap" text-anchor="middle">MODEL</text>
+  <text x="1096" y="368" class="cap" text-anchor="middle">DECIDE</text>
+</svg>
